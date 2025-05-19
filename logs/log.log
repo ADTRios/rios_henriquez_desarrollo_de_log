@@ -1,0 +1,7 @@
+
+05-18-2025 21:36:24.086200 CST ::1 [notice]: referer:  Dirección IP no autorizada ha cargado el archivo C:\xampp\htdocs\rios_henriquez_desarrollo_de_log\index.php ha sido redirigido a: https://www.ufg.edu.sv/ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-18-2025 21:39:53.707100 CST ::1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\rios_henriquez_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-18-2025 21:40:06.612400 CST ::1 [warning]: referer: http://localhost/rios_henriquez_desarrollo_de_log/ CREDENCIALES INCORRECTAS ENVIADAS HACIA //localhost
+                             Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-18-2025 21:40:06.619300 CST ::1 [info]: referer: http://localhost/rios_henriquez_desarrollo_de_log/ El archivo C:\xampp\htdocs\rios_henriquez_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-18-2025 21:40:39.532600 CST ::1 [notice]: referer: http://localhost/rios_henriquez_desarrollo_de_log/?status=7 EL CLIENTE INICIÓ SESIÓN SATISFACTORIAMENTE Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
